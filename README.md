@@ -3,6 +3,8 @@
 ### Backend
 Download the backend of the project from the following repository.
 
+[Check backend](https://github.com/KennethBarreraDev/SimpleTodoAppBackend)
+
 ### Functionality
 #### Once you run **npm run start**, you should see the following login screen.
 ![image](https://github.com/KennethBarreraDev/SimpleTodoAppFronEnd/assets/90868273/c7fa2077-ad86-444b-93e3-c54d6adc9fa0)
